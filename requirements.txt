@@ -1,0 +1,8 @@
+tensorboardX 
+scipy
+matplotlib
+optuna
+PyWavelets
+adabelief-pytorch==0.2.0
+pandas
+tensorboard
